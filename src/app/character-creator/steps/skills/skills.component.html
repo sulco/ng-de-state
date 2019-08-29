@@ -1,0 +1,11 @@
+<form [formGroup]="skillsForm">
+  <div class="ui-g">
+    <div class="ui-g-12" *ngFor="let skill of skillControls; let i = index">
+      <p-checkbox
+        [formControl]="skill"
+        [value]="true"
+        [label]="(availableSkills | async)[i].name"
+      ></p-checkbox>
+    </div>
+  </div>
+</form>

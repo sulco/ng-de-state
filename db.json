@@ -1,0 +1,544 @@
+{
+  "skills": [
+    {
+      "name": "Arcanology",
+      "id": "arcanology"
+    },
+    {
+      "name": "Acrobatics",
+      "id": "acrobatics"
+    },
+    {
+      "name": "Acting",
+      "id": "acting"
+    },
+    {
+      "name": "Agriculture",
+      "id": "agriculture"
+    },
+    {
+      "name": "Animal Husbandry",
+      "id": "animal_husbandry"
+    },
+    {
+      "name": "Anthropology",
+      "id": "anthropology"
+    },
+    {
+      "name": "Aquiculture",
+      "id": "aquiculture"
+    },
+    {
+      "name": "Archaeology",
+      "id": "archaeology"
+    },
+    {
+      "name": "Architecture",
+      "id": "architecture"
+    },
+    {
+      "name": "Armorer",
+      "id": "armorer"
+    },
+    {
+      "name": "Astrology",
+      "id": "astrology"
+    },
+    {
+      "name": "Astronomy",
+      "id": "astronomy"
+    },
+    {
+      "name": "Beekeeping",
+      "id": "beekeeping"
+    },
+    {
+      "name": "Begging",
+      "id": "begging"
+    },
+    {
+      "name": "Birdkeeping",
+      "id": "birdkeeping"
+    },
+    {
+      "name": "Blacksmithing",
+      "id": "blacksmithing"
+    },
+    {
+      "name": "Blind Fighting",
+      "id": "blind_fighting"
+    },
+    {
+      "name": "Body Building",
+      "id": "body_building"
+    },
+    {
+      "name": "Botany",
+      "id": "botany"
+    },
+    {
+      "name": "Boxing",
+      "id": "boxing"
+    },
+    {
+      "name": "Brawling",
+      "id": "brawling"
+    },
+    {
+      "name": "Brewing",
+      "id": "brewing"
+    },
+    {
+      "name": "Busking",
+      "id": "busking"
+    },
+    {
+      "name": "Calligraphy",
+      "id": "calligraphy"
+    },
+    {
+      "name": "Candlemaking",
+      "id": "candlemaking"
+    },
+    {
+      "name": "Camouflage",
+      "id": "camouflage"
+    },
+    {
+      "name": "Carpentry",
+      "id": "carpentry"
+    },
+    {
+      "name": "Cartography",
+      "id": "cartography"
+    },
+    {
+      "name": "Carving",
+      "id": "carving"
+    },
+    {
+      "name": "Climbing",
+      "id": "climbing"
+    },
+    {
+      "name": "Cobbling",
+      "id": "cobbling"
+    },
+    {
+      "name": "Composition",
+      "id": "composition"
+    },
+    {
+      "name": "Construction",
+      "id": "construction"
+    },
+    {
+      "name": "Cooking",
+      "id": "cooking"
+    },
+    {
+      "name": "Copying",
+      "id": "copying"
+    },
+    {
+      "name": "Cosmetology",
+      "id": "cosmetology"
+    },
+    {
+      "name": "Cryptography",
+      "id": "cryptography"
+    },
+    {
+      "name": "Dance",
+      "id": "dance"
+    },
+    {
+      "name": "Dentistry",
+      "id": "dentistry"
+    },
+    {
+      "name": "Dual Wield",
+      "id": "dual_wield"
+    },
+    {
+      "name": "Disguise",
+      "id": "disguise"
+    },
+    {
+      "name": "Drawing",
+      "id": "drawing"
+    },
+    {
+      "name": "Driving",
+      "id": "driving"
+    },
+    {
+      "name": "Embalming",
+      "id": "embalming"
+    },
+    {
+      "name": "Endurance",
+      "id": "endurance"
+    },
+    {
+      "name": "Escape Artist",
+      "id": "escape_artist"
+    },
+    {
+      "name": "Etching",
+      "id": "etching"
+    },
+    {
+      "name": "Falconry",
+      "id": "falconry"
+    },
+    {
+      "name": "Farming",
+      "id": "farming"
+    },
+    {
+      "name": "Fishing",
+      "id": "fishing"
+    },
+    {
+      "name": "Fletching/Bowing",
+      "id": "fletching/bowing"
+    },
+    {
+      "name": "Flint Knapping",
+      "id": "flint_knapping"
+    },
+    {
+      "name": "Floristry",
+      "id": "floristry"
+    },
+    {
+      "name": "Food Preservation",
+      "id": "food_preservation"
+    },
+    {
+      "name": "Foraging",
+      "id": "foraging"
+    },
+    {
+      "name": "Forgery",
+      "id": "forgery"
+    },
+    {
+      "name": "Fortune Telling",
+      "id": "fortune_telling"
+    },
+    {
+      "name": "Gadgeteering",
+      "id": "gadgeteering"
+    },
+    {
+      "name": "Gambling",
+      "id": "gambling"
+    },
+    {
+      "name": "Gardening",
+      "id": "gardening"
+    },
+    {
+      "name": "Geology",
+      "id": "geology"
+    },
+    {
+      "name": "Glassworking",
+      "id": "glassworking"
+    },
+    {
+      "name": "Grooming",
+      "id": "grooming"
+    },
+    {
+      "name": "Herbalism",
+      "id": "herbalism"
+    },
+    {
+      "name": "History",
+      "id": "history"
+    },
+    {
+      "name": "Horsemanship",
+      "id": "horsemanship"
+    },
+    {
+      "name": "Hunting",
+      "id": "hunting"
+    },
+    {
+      "name": "Impersonation",
+      "id": "impersonation"
+    },
+    {
+      "name": "Intelligence",
+      "id": "intelligence"
+    },
+    {
+      "name": "Interrogation",
+      "id": "interrogation"
+    },
+    {
+      "name": "Intimidation",
+      "id": "intimidation"
+    },
+    {
+      "name": "Investigation",
+      "id": "investigation"
+    },
+    {
+      "name": "Juggling",
+      "id": "juggling"
+    },
+    {
+      "name": "Jewelcrafting",
+      "id": "jewelcrafting"
+    },
+    {
+      "name": "Land Navigation",
+      "id": "land_navigation"
+    },
+    {
+      "name": "Larceny",
+      "id": "larceny"
+    },
+    {
+      "name": "Law",
+      "id": "law"
+    },
+    {
+      "name": "Leadership",
+      "id": "leadership"
+    },
+    {
+      "name": "Leatherworking",
+      "id": "leatherworking"
+    },
+    {
+      "name": "Locksmithing",
+      "id": "locksmithing"
+    },
+    {
+      "name": "Masonry",
+      "id": "masonry"
+    },
+    {
+      "name": "Massage",
+      "id": "massage"
+    },
+    {
+      "name": "Mathematics",
+      "id": "mathematics"
+    },
+    {
+      "name": "Medicine",
+      "id": "medicine"
+    },
+    {
+      "name": "Meditation",
+      "id": "meditation"
+    },
+    {
+      "name": "Metalsmithing",
+      "id": "metalsmithing"
+    },
+    {
+      "name": "Mining",
+      "id": "mining"
+    },
+    {
+      "name": "Mountaineering",
+      "id": "mountaineering"
+    },
+    {
+      "name": "Music Composition",
+      "id": "music_composition"
+    },
+    {
+      "name": "Negotiation",
+      "id": "negotiation"
+    },
+    {
+      "name": "Observation",
+      "id": "observation"
+    },
+    {
+      "name": "Organization",
+      "id": "organization"
+    },
+    {
+      "name": "Painting",
+      "id": "painting"
+    },
+    {
+      "name": "Papermaking",
+      "id": "papermaking"
+    },
+    {
+      "name": "Perfumery",
+      "id": "perfumery"
+    },
+    {
+      "name": "Persuasion",
+      "id": "persuasion"
+    },
+    {
+      "name": "Philosophy",
+      "id": "philosophy"
+    },
+    {
+      "name": "Philtering",
+      "id": "philtering"
+    },
+    {
+      "name": "Physics",
+      "id": "physics"
+    },
+    {
+      "name": "Play Musical Instrument",
+      "id": "play_musical_instrument"
+    },
+    {
+      "name": "Poison",
+      "id": "poison"
+    },
+    {
+      "name": "Politics",
+      "id": "politics"
+    },
+    {
+      "name": "Pottery",
+      "id": "pottery"
+    },
+    {
+      "name": "Rhetoric",
+      "id": "rhetoric"
+    },
+    {
+      "name": "Riding",
+      "id": "riding"
+    },
+    {
+      "name": "Running",
+      "id": "running"
+    },
+    {
+      "name": "Sailing",
+      "id": "sailing"
+    },
+    {
+      "name": "Salvage",
+      "id": "salvage"
+    },
+    {
+      "name": "Scavenge",
+      "id": "scavenge"
+    },
+    {
+      "name": "Scouting",
+      "id": "scouting"
+    },
+    {
+      "name": "Sculpting",
+      "id": "sculpting"
+    },
+    {
+      "name": "Seduction",
+      "id": "seduction"
+    },
+    {
+      "name": "Sewing",
+      "id": "sewing"
+    },
+    {
+      "name": "Shipbuilding",
+      "id": "shipbuilding"
+    },
+    {
+      "name": "Singing",
+      "id": "singing"
+    },
+    {
+      "name": "Socialization",
+      "id": "socialization"
+    },
+    {
+      "name": "Spelunking",
+      "id": "spelunking"
+    },
+    {
+      "name": "Stealth",
+      "id": "stealth"
+    },
+    {
+      "name": "Storytelling",
+      "id": "storytelling"
+    },
+    {
+      "name": "Subterfuge",
+      "id": "subterfuge"
+    },
+    {
+      "name": "Swimming",
+      "id": "swimming"
+    },
+    {
+      "name": "Tactics",
+      "id": "tactics"
+    },
+    {
+      "name": "Tattooing",
+      "id": "tattooing"
+    },
+    {
+      "name": "Teaching",
+      "id": "teaching"
+    },
+    {
+      "name": "Tracking",
+      "id": "tracking"
+    },
+    {
+      "name": "Trapping",
+      "id": "trapping"
+    },
+    {
+      "name": "Unarmed Combat",
+      "id": "unarmed_combat"
+    },
+    {
+      "name": "Undertaking",
+      "id": "undertaking"
+    },
+    {
+      "name": "Vinting",
+      "id": "vinting"
+    },
+    {
+      "name": "Weaponsmithing",
+      "id": "weaponsmithing"
+    },
+    {
+      "name": "Weapon Skills",
+      "id": "weapon_skills"
+    },
+    {
+      "name": "Weaving",
+      "id": "weaving"
+    },
+    {
+      "name": "Wilderness Survival",
+      "id": "wilderness_survival"
+    },
+    {
+      "name": "Wrestling",
+      "id": "wrestling"
+    },
+    {
+      "name": "Writing",
+      "id": "writing"
+    }
+  ]
+}

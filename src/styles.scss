@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  padding: 0 50px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 100;
+}
+
+label[for] {
+  display: block;
+  margin: 1em 0 0.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  color: #888;
+}
+
+p-checkbox label {
+  cursor: pointer;
+}
+
+p-tabPanel {
+  display: block;
+  padding-bottom: 0.5rem;
+}
+
+p-progressBar {
+  margin-bottom: 2rem;
+  display: block;
+}
+
+p-button {
+  margin-right: 2px;
+  .ui-button {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+p-card {
+  display: block;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}

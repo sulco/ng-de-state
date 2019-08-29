@@ -1,0 +1,19 @@
+<form [formGroup]="basicsForm">
+  <label for="race">Race</label>
+  <p-dropdown
+    id="race"
+    [options]="racesOptions"
+    formControlName="race"
+    placeholder="&nbsp;"
+    [showClear]="true"
+  ></p-dropdown>
+
+  <label for="background">Background</label>
+  <p-dropdown
+    id="background"
+    [options]="backgroundOptions"
+    formControlName="background"
+    placeholder="&nbsp;"
+    [showClear]="true"
+  ></p-dropdown>
+</form>

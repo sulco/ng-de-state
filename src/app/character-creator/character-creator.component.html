@@ -1,0 +1,25 @@
+<p-progressBar [value]="completeness | async"></p-progressBar>
+
+<p-button
+  label="Race & Background"
+  (onClick)="redirectTo('')"
+  icon="pi pi-question"
+></p-button>
+
+<p-button
+  label="Attributes"
+  (onClick)="redirectTo('attributes')"
+  icon="pi pi-question"
+  [disabled]="!(isStepEnabled('attributes') | async)"
+></p-button>
+
+<p-button
+  label="Skills"
+  (onClick)="redirectTo('skills')"
+  icon="pi pi-question"
+  [disabled]="!(isStepEnabled('skills') | async)"
+></p-button>
+
+<p-card>
+  <router-outlet></router-outlet>
+</p-card>

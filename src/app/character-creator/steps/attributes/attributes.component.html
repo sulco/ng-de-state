@@ -1,0 +1,15 @@
+<form [formGroup]="attributesForm">
+  <ng-container *ngFor="let attribute of attributes">
+    <label for="strength">{{ attribute }}</label>
+    <input
+      type="number"
+      min="1"
+      max="10"
+      pInputText
+      id="strength"
+      [formControlName]="attribute"
+      [name]="attribute"
+      autocomplete="off"
+    />
+  </ng-container>
+</form>
